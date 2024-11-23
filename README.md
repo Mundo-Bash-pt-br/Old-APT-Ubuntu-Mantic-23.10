@@ -1,4 +1,4 @@
-# Old-Release-Ubuntu-Mantic-23.10
+# Old Release Ubuntu Mantic 23.10
 
 
 # Script para Configurar Repositórios `old-releases` no Ubuntu
